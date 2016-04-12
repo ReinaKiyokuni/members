@@ -5,4 +5,5 @@
 
 好きなもの:  
 * 映画
+* デジタルコンテンツ
 * [yugop](http://yugop.net/info/)* UnderConstruction*
