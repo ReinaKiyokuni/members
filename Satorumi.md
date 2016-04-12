@@ -1,7 +1,5 @@
-# <font color="#F58E77">佐</font><font color="#424242">藤瑠美</font>
-
 ![PMIY](https://pbs.twimg.com/media/Cf1cy8_UAAADh_k.jpg)
-
+# <font color="#F58E77">佐</font><font color="#424242">藤瑠美 (PMIY)</font>
 ### <font color="F58E77">メディア芸術コース</font>
 メディアラボ所属。<font color="purple">Adobe</font>ばっかり触ってるけど、最終的には<font color="13B265">コーディング</font>で映像作品を作りたい。
 現実と<font color="0880B4">Twitter</font>では性格が違う。
