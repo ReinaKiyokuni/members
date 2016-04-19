@@ -6,6 +6,3 @@
 
 
 😉💂😉😎🐷    ⛪️  🌞🌞
-
-[Twitter](https://twitter.com/_shunjisato).
-
