@@ -9,3 +9,11 @@ aの文字はこれかな
 * ちゃんとできてるのか不安
 
 [ここにリンク（空白は改行だった）](yoppa.org)
+
+## Introduce My Self
+I am a student who is studying art at Tama Art University in Tokyo Japan.
+My major is Media Art.
+
+Usually, I am making Interactive Installation art work.
+
+Thank you!
